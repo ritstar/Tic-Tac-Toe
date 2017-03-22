@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "580273195016",
+    "firebase_url": "https://tictac-e2c2b.firebaseio.com",
+    "project_id": "tictac-e2c2b",
+    "storage_bucket": "tictac-e2c2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580273195016:android:f6996f1728be706b",
+        "android_client_info": {
+          "package_name": "myapplication.ritstar.com.tictac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580273195016-edl91bpl85br24m8h272atkbbffgd6ne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myapplication.ritstar.com.tictac",
+            "certificate_hash": "c54ab7dc5fcbfcd0d2ffe7112ba92f02323f764b"
+          }
+        },
+        {
+          "client_id": "580273195016-oq45ub5imd0rs8held8lkji63gkve723.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAXNaoW8_qJO3nZQaVbzTITX5z0QeKD5s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580273195016-oq45ub5imd0rs8held8lkji63gkve723.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

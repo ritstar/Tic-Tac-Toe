@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#03A9F4</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="back_teal">#80CBC4</color>
+    <color name="try_back">#0097A7</color>
+    <color name="butt_back">#DCE775</color>
+    <color name="butt_text">#01579B</color>
+    <color name="text_col">#33691E</color>
+
+</resources>
